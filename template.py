@@ -30,6 +30,7 @@ list_of_files = [
     'setup.py',
     'config/model.yaml', 
     'config/schema.yaml',
+    'git_commands.md'
 
 ]
 
