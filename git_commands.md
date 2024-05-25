@@ -13,3 +13,6 @@ git config –global user.email 'rahulsinghtagur@gmail.com'
 git config –global user.name 'rahul'
 
 git push origin main 
+
+git status 
+
